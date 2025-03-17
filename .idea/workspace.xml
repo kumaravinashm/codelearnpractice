@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5125244d-9787-4e5d-9e25-692c50ac655a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CsvGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical/CheckDoubleIsInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical/CountAbsoluteDistinct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical/SumOFDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical/Swap2Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/CheckMaximumProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ClosestToZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/LargestInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/LetterCombinationOfAPhonePad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/MaxConsequtiveOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/MaxOfSubarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/MaxProductSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/MaxSumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/MaximumProductSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/MergeTwoSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/MinimumSizeSubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/MinimumSubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/MissingNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/MovezerotoEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/NiceArraysOddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/PrintLastKDigitsOfProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/RearrangeMaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/RemoveDuplicatesFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/RemoveElementFromArrayAddDashAtEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/RotateArrayWithSubset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SearchInsertPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SecondLargestInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SecondLargestOccurenceOfCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SeparateOddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SingleNumberFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SlidingWindowMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SortAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ThreeGreatestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/TwoSumOfGivenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/integers/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/integers/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/integers/SQRTNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/AdditiveNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/AnagramInStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/AnagramStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/AttendanceRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/BalancedParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/CamelCaseSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/CharOccurences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/CharactersForPallindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/CheckPallindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/CommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/CompressString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/Decode26Alphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/DecodeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/FindTheDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/FindWordsCanBeFormedByCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/FirstNonRepeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/GroupAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/IScream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/IndexoftheFirstOccurrenceinString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/IntegerToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/InterleavingStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/IsSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/IsomorphicString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/JewelsAndStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/KeyBoardRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/LargestAndSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/LastWordLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/LicenceKeyFormatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/LongestDistinctcharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/LongestNonRepeatingSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/LongestPalindromeSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/LongestPallindromeFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/LongestPallindromeSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/LongestPallindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/MaxCommonWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/MorseCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/MostRepeatedWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/MultiplyStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/NearestPallindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/NumberOfSegments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/PallindromeAfterDeletingOneCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/PallindromeCheckSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/PallindromeSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/RandomDemoClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/RemainingString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/RemoveConsequtiveCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/ReverseVowelsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/RomanToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/Sample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/StringAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/StringMatchingForRepeatedSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/StringToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/SubSetOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/SumOfTwoStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/TextJustification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/WordPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top50faang/FirstLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top50faang/SecondZigzagConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top50faang/SevenGroupAnagram.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2uRvGQduw2EtR3Pp8xgNTaFGidl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/kavinash/IdeaProjects/codelearnpractice/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="codelearnpractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5125244d-9787-4e5d-9e25-692c50ac655a" name="Changes" comment="" />
+      <created>1742224117161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742224117161</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
