@@ -1,4 +1,4 @@
-package strings;
+package prep2025.string;
 
 public class LongestCommonPrefix {
 

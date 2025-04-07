@@ -1,6 +1,5 @@
-package strings;
+package prep2025.string;
 
-import java.util.Objects;
 import java.util.Stack;
 
 public class DecodeString {

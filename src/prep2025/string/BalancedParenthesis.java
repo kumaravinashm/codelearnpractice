@@ -1,4 +1,4 @@
-package strings;
+package prep2025.string;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
