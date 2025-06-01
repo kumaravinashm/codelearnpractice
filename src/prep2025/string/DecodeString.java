@@ -6,30 +6,33 @@ public class DecodeString {
 
 
     public static void main(String[] args) {
-        String s = "123[a]";
+        String s = "23[edfr3[fcef]]123[a]";
         System.out.println(getString(s));
     }
 
 
     static String getString(String s) {
         Stack<Character> stack = new Stack<>();
-        for (Character c : s.toCharArray()) {
+        char temp;
+        for (char c : s.toCharArray()) {
             if (c != ']') {
                 stack.push(c);
-            }else {
-                String sub="";
-                while (stack.peek()!='['){
-                    sub = stack.pop()+sub;
+            } else {
+                String sub = "";
+                while (stack.peek() != '[') {
+                    sub = stack.pop() + sub;
                 }
                 stack.pop();
-                String k="";
-                while (!stack.empty() && Character.isDigit(stack.peek())){
+                String k = "";
+                while (!stack.isEmpty() && Character.isDigit(stack.peek())) {
                     k = stack.pop()+k;
                 }
                 for (char ch : sub.repeat(Integer.parseInt(k)).toCharArray()) {
                     stack.push(ch);
                 }
             }
+
+
         }
         StringBuilder sb = new StringBuilder();
 
@@ -39,6 +42,10 @@ public class DecodeString {
         return sb.toString();
     }
 }
+
+
+
+
 
 
 
